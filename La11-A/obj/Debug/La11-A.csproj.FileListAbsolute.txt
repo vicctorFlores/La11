@@ -1,0 +1,11 @@
+C:\Users\victorflores\source\repos\La11-A\La11-A\bin\Debug\La11-A.exe.config
+C:\Users\victorflores\source\repos\La11-A\La11-A\bin\Debug\La11-A.exe
+C:\Users\victorflores\source\repos\La11-A\La11-A\bin\Debug\La11-A.pdb
+C:\Users\victorflores\source\repos\La11-A\La11-A\bin\Debug\EntityFramework.dll
+C:\Users\victorflores\source\repos\La11-A\La11-A\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\victorflores\source\repos\La11-A\La11-A\bin\Debug\EntityFramework.xml
+C:\Users\victorflores\source\repos\La11-A\La11-A\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\victorflores\source\repos\La11-A\La11-A\obj\Debug\La11-A.csprojResolveAssemblyReference.cache
+C:\Users\victorflores\source\repos\La11-A\La11-A\obj\Debug\La11-A.csproj.CoreCompileInputs.cache
+C:\Users\victorflores\source\repos\La11-A\La11-A\obj\Debug\La11-A.exe
+C:\Users\victorflores\source\repos\La11-A\La11-A\obj\Debug\La11-A.pdb
